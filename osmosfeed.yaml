@@ -3,6 +3,6 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://yuchi0531.github.io/osmos-feed/cache.json
 sources:
   - href: https://cal.syoboi.jp/rss?usr=yuchi0531&filter=1&start=today&count=1000&days=14&titlefmt=%24(StTime)%20%24(Mark)%24(MarkW)%20%24(ShortTitle)%20%24(SubTitleB)%20%5B%24(ChName)%5D
